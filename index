@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My Art Projects</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      text-align: center;
+      margin: 0;
+      padding: 0;
+      background-color: #f2f9fd;
+    }
+
+    h1 {
+      font-weight: bold;
+      color: #fff;
+      background-color: #006400;
+      padding: 20px;
+      margin-top: 0;
+    }
+
+    .project {
+      margin-bottom: 50px;
+    }
+
+    .project img {
+      display: block;
+      margin: 0 auto;
+      max-width: 500px;
+    }
+
+    .caption {
+      margin-top: 20px;
+      font-style: italic;
+    }
+
+    .description {
+      margin-top: 10px;
+    }
+  </style>
+</head>
+<body>
+  <h1>My Art Projects</h1>
+
+  <div class="project">
+    <h2>Art Project 1</h2>
+    <img src="project1.jpg" alt="Art Project 1">
+    <div class="caption">Caption for Art Project 1</div>
+    <div class="description">For this artwork, I used an app called "FireAlpaca '', a computer program that allows you to create drawings and animations digitally. In this artwork we can see the portrait of a woman with all the bunch of things around her, that makes the picture so complicated and has this ridiculous style because of all the details, that makes your eyes jump from place to place, observing what else is hidden in the drawing. The picture is colorful and interesting, the girl looks sad, holding the lipstick covering the lips with it. All the objects around her can be referenced to human imaginations, and what it would look like if thoughts would be visible.
+</div>
+  </div>
+
+  <div class="project">
+    <h2>Art Project 2</h2>
+    <img src="project2.jpg" alt="Art Project 2">
+    <div class="caption">Caption for Art Project 2</div>
+    <div class="description">The second artwork is also the portrait, it is also a woman like the first one is, but now it’s made in a different style, different colors and a totally different girl. The girl looks down, she has dark hair and a green sweater, this time there are also some details around the portret, that fill the space in the background, but not as much as in the previous work, and they are almost not touching up with the girl at all. If in the work above, we were seeing what was going on inside the girl's head, here, we can see what thinkin looks like outside of our head.
+</div>
+  </div>
+
+  <div class="project">
+    <h2>Art Project 3</h2>
+    <img src="project3.jpg" alt="Art Project 3">
+    <div class="caption">Caption for Art Project 3</div>
+    <div class="description">Artwork number 3, is the drawing where we can see a girl with two masks, the first mask looks scared and the other mean and crazy. The figures and faces look exaggerated, containing no other color than black which makes it look like a rough sketch, and also the red signature that author had left. What makes this picture differ from others is the style and colors or to be more specific it’s lack. What makes this artwork even more special is the fact that first it was an actual sketch made by pencil, that I had put into the program and began to draw over it.  
+</div>
+  </div>
+</body>
+</html>
+
